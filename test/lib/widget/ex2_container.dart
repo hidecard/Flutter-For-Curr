@@ -10,7 +10,6 @@ class Ex2Container extends StatelessWidget {
         child: Container(
           decoration: BoxDecoration(
             color: Colors.blueAccent,
-            
           )
           width: 200,
           height: 200,
